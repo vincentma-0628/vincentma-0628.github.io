@@ -67,8 +67,8 @@ Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**,
 
 - Guided by prior breast anatomy knowledge, we extract and filter suspected lesion contours in the parenchyma layer using clustering and morphological characteristics. A classification network then extracts semantic information to identify lesion categories. Finally, we fuse complementary information to enhance lesion segmentation with comprehensive features. Experiments on the BUSI dataset confirm our approach's effectiveness.
   </div>
-- To be continue...
 </div>
+- To be continue...
 </div>
 
 # 🎖 Honors and Awards
