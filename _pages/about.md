@@ -69,6 +69,7 @@ Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**,
   </div>
 - To be continue...
 </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.08*, Second Prize, 25th China Robot and Artificial Intelligence Competition.
