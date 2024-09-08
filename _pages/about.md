@@ -33,16 +33,32 @@ I like fitness, swimming and cycling, feel free to play sports with me.
 - *2023.06*: &nbsp;🎉🎉 Our paper on lesion segmentation in Breast Ultrasound images has been accepted by *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE COMPSAC 2024</div><img src='images/article2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE COMPSAC 2024
+      </div>
+      <img src='images/article2.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Research on Breast Lesion Localization and Diagnosis Based on Knowledge-Driven and Data-Driven Approach](https://ieeexplore.ieee.org/abstract/document/10633544)
 
 Lintao Song, Jianqiang Li, Xiaoling Liu, Yiming Liu, **Tianbao Ma**, Jun Bai, Linna Zhao, Qing Zhao, Xi Xu
 
 - The article categorizes feature construction methods into three types: domain knowledge-driven, data-driven, and a fusion of both. It systematically reviews, classifies, and compares models for breast image lesion localization and diagnosis, providing an in-depth analysis that expands on existing reviews. Additionally, the article highlights current research challenges and discusses future directions in breast image lesion localization and benign-malignant diagnosis.
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2023</div><img src='images/article1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE SMC 2023
+      </div>
+      <img src='images/article1.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Anatomy-guided Weakly Supervised Breast Lesion Segmentation Fusing Contour and Semantic Information](https://ieeexplore.ieee.org/abstract/document/10394472)
@@ -50,9 +66,8 @@ Lintao Song, Jianqiang Li, Xiaoling Liu, Yiming Liu, **Tianbao Ma**, Jun Bai, Li
 Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**, Xi Xu, Qing Zhao
 
 - Guided by prior breast anatomy knowledge, we extract and filter suspected lesion contours in the parenchyma layer using clustering and morphological characteristics. A classification network then extracts semantic information to identify lesion categories. Finally, we fuse complementary information to enhance lesion segmentation with comprehensive features. Experiments on the BUSI dataset confirm our approach's effectiveness.
-
+  </div>
 - To be continue...
-</div>
 </div>
 
 # 🎖 Honors and Awards
