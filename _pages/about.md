@@ -46,8 +46,6 @@ Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**,
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2023.08*, Second Prize, 25th China Robot and Artificial Intelligence Competition.
 - *2023.05*, Honorable Mention, 2023 Mathematical Contest In Modeling.
