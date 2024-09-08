@@ -41,8 +41,6 @@ I like fitness, swimming and cycling, feel free to play sports with me.
 Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**, Xi Xu, Qing Zhao
 
 - We present a weakly supervised framework merging complementary contour and semantic information for early lesion segmentation in BUS images.
-</div>
-</div>
 
 - To be continue...
 </div>
