@@ -48,8 +48,6 @@ I like fitness, swimming and cycling, feel free to play sports with me.
 Lintao Song, Jianqiang Li, Xiaoling Liu, Yiming Liu, **Tianbao Ma**, Jun Bai, Linna Zhao, Qing Zhao, Xi Xu
 
 - The article categorizes feature construction methods into three types: domain knowledge-driven, data-driven, and a fusion of both. It systematically reviews, classifies, and compares models for breast image lesion localization and diagnosis, providing an in-depth analysis that expands on existing reviews. Additionally, the article highlights current research challenges and discusses future directions in breast image lesion localization and benign-malignant diagnosis.
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
