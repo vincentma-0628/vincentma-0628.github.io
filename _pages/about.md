@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student from [College of Computing and Informatics](https://cci.charlotte.edu/), [University of North Carolina at Charlotte](https://www.charlotte.edu/). My research interest includes <u>Differential Privacy</u> and <u>Medical Image Analysis</u>.
 
-I am very fortunate to be advised by [Prof. Liyue Fan](https://webpages.charlotte.edu/lfan4/index.html). Before that, I received my Bachelar's degree from [Beijing University of Technology](https://english.bjut.edu.cn/).
+I am very fortunate to be advised by [Dr. Liyue Fan](https://webpages.charlotte.edu/lfan4/index.html). Before that, I received my Bachelar's degree from [Beijing University of Technology](https://english.bjut.edu.cn/).
 
 I like fitness, swimming and cycling, feel free to play sports with me.
 
@@ -28,19 +28,31 @@ I like fitness, swimming and cycling, feel free to play sports with me.
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 I will pursue my Ph.D. degree in University of North Carolina at Charlotte. Looking forward to this exciting journey with Prof. Liyue Fan!
-- *2023.06*: &nbsp;🎉🎉 Our paper has been accepted by *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
+- *2024.07*: &nbsp;🎉🎉 Our review on breast lesion localization and diagnosis has been accepted by *2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)*.
+- *2024.01*: &nbsp;🎉🎉 I will pursue my Ph.D. degree in University of North Carolina at Charlotte. Looking forward to this exciting journey with Dr. Liyue Fan!
+- *2023.06*: &nbsp;🎉🎉 Our paper on lesion segmentation in Breast Ultrasound images has been accepted by *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE COMPSAC 2024</div><img src='images/article2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2024</div><img src='images/article1.png' alt="sym" width="100%"></div></div>
+[Research on Breast Lesion Localization and Diagnosis Based on Knowledge-Driven and Data-Driven Approach](https://ieeexplore.ieee.org/abstract/document/10633544)
+
+Lintao Song, Jianqiang Li, Xiaoling Liu, Yiming Liu, **Tianbao Ma**, Jun Bai, Linna Zhao, Qing Zhao, Xi Xu
+
+- The article categorizes feature construction methods into three types: domain knowledge-driven, data-driven, and a fusion of both. It systematically reviews, classifies, and compares models for breast image lesion localization and diagnosis, providing an in-depth analysis that expands on existing reviews. Additionally, the article highlights current research challenges and discusses future directions in breast image lesion localization and benign-malignant diagnosis.
+
+- To be continue...
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC 2023</div><img src='images/article1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anatomy-guided Weakly Supervised Breast Lesion Segmentation Fusing Contour and Semantic Information](https://ieeexplore.ieee.org/abstract/document/10394472)
 
 Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**, Xi Xu, Qing Zhao
 
-- We present a weakly supervised framework merging complementary contour and semantic information for early lesion segmentation in BUS images.
+- Guided by prior breast anatomy knowledge, we extract and filter suspected lesion contours in the parenchyma layer using clustering and morphological characteristics. A classification network then extracts semantic information to identify lesion categories. Finally, we fuse complementary information to enhance lesion segmentation with comprehensive features. Experiments on the BUSI dataset confirm our approach's effectiveness.
 
 - To be continue...
 </div>
