@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student from [College of Computing and Informatics](https://cci.charlotte.edu/), [University of North Carolina at Charlotte](https://www.charlotte.edu/). My research interest includes <u>Differential Privacy</u> and <u>Medical Image Analysis</u>.
+I am a Ph.D. student from [College of Computing and Informatics](https://cci.charlotte.edu/), [University of North Carolina at Charlotte](https://www.charlotte.edu/)<img src='images/UNCC.png' alt="sym" width="100%">. My research interest includes <u>Differential Privacy</u> and <u>Medical Image Analysis</u>.
 
 I am very fortunate to be advised by [Dr. Liyue Fan](https://webpages.charlotte.edu/lfan4/index.html). Before that, I received my Bachelar's degree from [Beijing University of Technology](https://english.bjut.edu.cn/).
 
@@ -29,7 +29,7 @@ I like fitness, swimming and cycling, feel free to play sports with me.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our review on breast lesion localization and diagnosis has been accepted by *2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)*.
-- *2024.01*: &nbsp;🎉🎉 I will pursue my Ph.D. degree in University of North Carolina at Charlotte. Looking forward to this exciting journey with Dr. Liyue Fan!
+- *2024.01*: &nbsp;🎉🎉 I will pursue my Ph.D. degree in University of North Carolina at Charlotte<img src='images/UNCC.png' alt="sym" width="100%">. Looking forward to this exciting journey with Dr. Liyue Fan!
 - *2023.06*: &nbsp;🎉🎉 Our paper on lesion segmentation in Breast Ultrasound images has been accepted by *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*.
 
 # 📝 Publications 
@@ -76,14 +76,14 @@ Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**,
 - *2021.08*, Third Prize, Beijing Division of the 7th China International "Internet+" College Students Innovation and Entrepreneurship Competition.
 
 # 📖 Educations
-- *2024.08 - Now*, Ph.D., University of North Carolina at Charlotte, Charlotte, United States.
-- *2020.09 - 2024.07*, Bachelor, Beijing University of Technology, Beijing, China.
+- *2024.08 - Now*, Ph.D., University of North Carolina at Charlotte, Charlotte, United States<img src='images/UNCC.png' alt="sym" width="100%">.
+- *2020.09 - 2024.07*, Bachelor, Beijing University of Technology, Beijing, China<img src='images/BJUT.png' alt="sym" width="100%">.
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
-- *2023.09 - 2024.07*, Product Manager, Baidu Online Network Technology Co., Ltd, Beijing, China.
-- *2023.06 - 2023.09*, Product Manager, Testin Information Technology Co., Ltd, Beijing, China.
-- *2023.05 - 2023.06*, Data Analyst, Databaker Technology Co., Ltd, Beijing, China.
+- *2023.09 - 2024.07*, Product Manager, Baidu Online Network Technology Co., Ltd, Beijing, China<img src='images/Baidu.jpg' alt="sym" width="100%">.
+- *2023.06 - 2023.09*, Product Manager, Testin Information Technology Co., Ltd, Beijing, China<img src='images/Testin.png' alt="sym" width="100%">.
+- *2023.05 - 2023.06*, Data Analyst, Databaker Technology Co., Ltd, Beijing, China<img src='images/Databaker.png' alt="sym" width="100%">.
