@@ -76,7 +76,7 @@ Xiaoling Liu, Jianqiang Li, Linna Zhao, Zhaolei Liu, Chujie Zhu, **Tianbao Ma**,
 - *2021.08*, Third Prize, Beijing Division of the 7th China International "Internet+" College Students Innovation and Entrepreneurship Competition.
 
 # 📖 Educations
-- *2024.08 - Now*, Ph.D., University of North Carolina at Charlotte, Charlotte, United States.
+- *2024.08 - Now*, Ph.D. Student, University of North Carolina at Charlotte, Charlotte, United States.
 - *2020.09 - 2024.07*, Bachelor, Beijing University of Technology, Beijing, China.
 
 <!--# 💬 Invited Talks
